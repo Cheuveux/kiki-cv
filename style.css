@@ -81,13 +81,13 @@ body {
 
     .main-container {
         width: 350px;
-        margin-bottom: 3rem;
+        margin: 2rem 0;
     }
 
     .footer-button {
         flex-direction: column;
         width: 350px;
-        gap: 35px;
+       gap: 10px;
     }
 
     .footer-button a {
